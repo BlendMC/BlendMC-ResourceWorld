@@ -1,0 +1,8 @@
+name: BlendWorlds
+main: net.blendmc.blendworlds.BlendWorldsPlugin
+version: ${project.version}
+api-version: 1.18
+authors: [Eliaseeg, LordSherman]
+commands:
+  blendworlds:
+    aliases: [blendworld, blendw, blw]
